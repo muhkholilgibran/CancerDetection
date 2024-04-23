@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CancerAppAsclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analisis">Analisis</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Gagal Menganalisis. Cek Log Error untuk Detail</string>
+    <string name="save">Save</string>
+    <string name="article">Artikel</string>
+    <string name="prediction">Prediksi</string>
+    <string name="score">Skor</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+</resources>

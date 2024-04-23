@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius">
+        <item name="colorPrimary">@color/back3</item>
+        <item name="android:background">@color/back2</item>
+
+    </style>
+
+    <style name="Theme.Asclepius.Button" parent="Base.Theme.Asclepius">
+        <item name="android:background">@color/back3</item>
+        <item name="backgroundTint">@color/back2</item>
+    </style>
+
+    <style name="Theme.image" parent="Theme.Asclepius">
+        <item name="android:tint">@color/black</item>
+    </style>
+
+</resources>
